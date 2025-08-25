@@ -1,8 +1,8 @@
-🌟 #Task Manager GUI (Java Mini Project)
+🌟Task Manager GUI (Java Mini Project)
 
 A Java-based GUI Task Manager that allows multiple users to manage their tasks securely with password protection, priority color-coding, and file persistence. Perfect for showcasing OOP, GUI development, and file handling skills in Java.
 
-##✨ Features
+✨ Features
 
 ✅ Multi-user support with password protection
 
@@ -66,7 +66,7 @@ Switch users securely by entering the password.
 
 Sort tasks or toggle dark mode as desired.
 
-##📁 Project Structure
+📁 Project Structure
 src/
 ├── Task.java
 ├── User.java
@@ -82,7 +82,7 @@ TaskManagerGUI.java → GUI implementation and main logic
 
 Main.java → Entry point to launch the GUI
 
-##🚀 Future Enhancements
+🚀 Future Enhancements
 
 Add notifications/reminders for upcoming deadlines
 
@@ -92,9 +92,9 @@ Integrate cloud storage or database for scalability
 
 Add drag-and-drop task prioritization in GUI
 
-##📸 Screenshot
+📸 Screenshot
 
-<img width="1164" height="612" alt="image" src="https://github.com/user-attachments/assets/7c1a59b7-3e40-4e46-8b75-e5ee0c09e6f7" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/7c1a59b7-3e40-4e46-8b75-e5ee0c09e6f7" />
 
 
 👤 Author
