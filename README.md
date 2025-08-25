@@ -94,8 +94,7 @@ Add drag-and-drop task prioritization in GUI
 
 📸 Screenshot
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/7c1a59b7-3e40-4e46-8b75-e5ee0c09e6f7" />
-
+<img width="1168" height="611" alt="image" src="https://github.com/user-attachments/assets/ae44f2dc-1bd2-40e9-be04-1f833e375177" />
 
 👤 Author
 
